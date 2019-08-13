@@ -39,3 +39,38 @@ def area(b,h):
     area (2,3)
 
 area (4,5)
+
+def delicous(chocolate,milk):
+delicous= chocolate + milk
+    print ("the sum of", chocolate, "and", milk, "is", delicous)
+
+
+chocolate1= "milk"
+chocolate2= "dark"
+chocolate3= "white"
+
+milk=5+3
+white=8+2   
+dark=6+2 
+
+milk=100
+
+milk
+Out[2]: 100
+
+import math
+dir(math)
+
+math.sqrt(350)
+
+math.exp(1)
+math.pow(2.718281828459045,2)
+
+
+math.pow(35,9)
+
+
+
+    
+    
+    
