@@ -69,8 +69,31 @@ math.pow(2.718281828459045,2)
 
 math.pow(35,9)
 
+math.factorial(4)
+
+chocolate1 = {"milk":5}
+chocolate2 = {"dark":6}
+chocolate3 = {"white":8}
+
+#dict
+chocolatebox = {"milk":5, "dark":6, "white":8} 
+    
+
+#list
+student1 = ["Steve",32,"M"]
+student2 = ["Lia",28,F]
+student3 = ["Vin",45,M]
+student4 = ["Katie",38,F]
+
+student1 ={student1,student2,student3,student4}
+student
+studentinfo = [["Steven",32,"M"],["Lia",28,"F"],["Vin",45,"M"],["Katie",38,"F"]]
 
 
-    
-    
-    
+milk= 5 "chocalate"
+
+import pandas
+dir(pandas)
+
+studentdf = pandas.DataFrame(studentinfo,columns=("Name", "Age", "Gender"))
+studentdf
